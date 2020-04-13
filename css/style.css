@@ -1,0 +1,410 @@
+.digital {
+	display: block;
+	width: 450px;
+	margin: auto;
+	margin-top: 60px;
+}
+
+.card {
+	display: block;
+	width: 100%;
+	margin: auto;
+	margin-top: 30px;
+}
+
+.card2 {
+	display: block;
+	width: 100%;
+	margin: auto;
+	margin-top: 30px;
+}
+
+.card3 {
+	display: block;
+	width: 100%;
+	margin: auto;
+	margin-top: 30px;
+}
+
+.card4 {
+	display: block;
+	width: 100%;
+	margin: auto;
+	margin-top: 30px;
+
+}
+
+.card3 {
+	margin-top: 30px;
+	box-shadow: 15px 10px 10px #d2d2d2;
+}
+
+.card4 {
+	margin-top: 30px;
+	box-shadow: 15px 10px 10px #d2d2d2;
+}
+
+
+
+/*________________________________PV___________________________________*/
+
+
+
+.photo {
+	display: block;
+	width: 450px;
+	margin: auto;
+	margin-top: 60px;
+}
+
+.h2 {
+	color: black;
+	font-family: 'Roboto Slab', serif;
+}
+
+.p2 {
+	color: black;
+	font-family: 'Open Sans', sans-serif;
+}
+
+.h3 {
+	color: black;
+	font-family: 'Roboto Slab', serif;
+}
+
+.p3 {
+	color: black;
+	font-family: 'Open Sans', sans-serif;
+}
+
+.h4 {
+	
+	font-family: 'Roboto Slab', serif;
+}
+
+.p4 {
+	
+	font-family: 'Open Sans', sans-serif;
+}
+
+.h5 {
+	
+	font-family: 'Roboto Slab', serif;
+}
+
+.p5 {
+	
+	font-family: 'Open Sans', sans-serif;
+}
+
+.h6 {
+	
+	font-family: 'Roboto Slab', serif;
+}
+
+.p6 {
+	
+	font-family: 'Open Sans', sans-serif;
+}
+
+.h7 {
+	
+	font-family: 'Roboto Slab', serif;
+}
+
+.p7 {
+	
+	font-family: 'Open Sans', sans-serif;
+}
+
+.h8 {
+	color: black;
+	font-family: 'Roboto Slab', serif;
+}
+
+.p8 {
+	color: black;
+	font-family: 'Open Sans', sans-serif;
+}
+
+.h9 {
+	color: black;
+	font-family: 'Roboto Slab', serif;
+}
+
+.p9 {
+	color: black;
+	font-family: 'Open Sans', sans-serif;
+}
+
+.h1 {
+	font-family: 'Roboto Slab', serif;
+}
+
+.p1 {
+	
+	font-family: 'Open Sans', sans-serif;
+}
+
+
+
+
+
+#video h3 {
+	font-family: 'Roboto Slab', serif;
+	font-size: 25px;
+	padding-top: 30px;
+	font-family: 'Roboto Slab', serif;
+	font-size: 23px;
+	background-color: #225d99;
+	width: 170px;
+	padding-left: 4px;
+	padding-right: 4px;
+	padding-bottom: 4px;
+	padding-top: 4px;
+	color: #fff;
+}
+
+#video1 h3{
+	font-family: 'Roboto Slab', serif;
+	font-size: 25px;
+	padding-top: 30px;
+	font-family: 'Roboto Slab', serif;
+	font-size: 23px;
+	background-color: #225d99;
+	width: 220px;
+	padding-left: 4px;
+	padding-right: 4px;
+	padding-bottom: 4px;
+	padding-top: 4px;
+	color: #fff;
+}
+
+
+@media (min-width: 48em) {
+
+	.digital {
+		display: block;
+		margin: auto;
+		width: 90%;
+		margin-top: 60px;
+	}
+
+	.poster {
+		display: flex;
+	}
+
+	.card {
+		width: 45%;
+		flex-direction: column;
+		display: flex;
+		top: 40px;
+
+	}
+
+	.card2 {
+		width: 45%;
+		margin-top: 950px;
+		display: flex;
+		flex-direction: column;
+		top: -880px;
+	}
+
+	.poster2 {
+		display: flex;
+		margin-top : -690px;
+	}
+
+	.card3 {
+		width: 45%;
+		flex-direction: column;
+		display: flex;
+	}
+
+	.card4 {
+		width: 45%;
+		flex-direction: column;
+		display: flex;
+	}
+
+	.card3 h4 {
+		font-family: 'Roboto Slab', serif;
+		font-size: 25px;
+	}
+
+	.card3 p {
+		font-family: 'Open Sans', sans-serif;
+		font-size: 1rem;
+	}
+
+	.card4 h4 {
+		font-family: 'Roboto Slab', serif;
+		font-size: 25px;
+	}
+
+	.card4 p {
+		font-family: 'Open Sans', sans-serif;
+		font-size: 1rem;
+	}
+
+
+
+/*________________________________PV___________________________________*/
+
+	.photo {
+		display: block;
+		margin: auto;
+		width: 90%;
+		margin-top: 60px;
+	}
+
+	#video {
+		position: relative;
+		right: 200px;
+		width: 350px;
+	}
+
+	#video img {
+		width: 350px;
+	}
+
+	#video1 {
+		position: relative;
+		top: -440px;
+		left: 200px;
+		width: 350px;
+	}
+
+	#video1 img {
+		width: 350px;
+	}
+
+	#ft {
+		bottom: 5900px;
+	}
+
+
+
+
+
+
+
+
+
+}
+
+
+
+
+
+@media (min-width: 60em) {
+
+	.digital {
+		display: block;
+		margin: auto;
+		width: 90%;
+		margin-top: 60px;
+	}
+
+	.card2 {
+		/*padding-right: 490px;*/
+	}
+
+	.poster {
+		display: flex;
+	}
+
+	.card {
+		width: 40%;
+		flex-direction: column;
+		display: flex;
+		top: 40px;
+
+	}
+
+	.card2 {
+		width: 40%;
+		margin-top: 950px;
+		display: flex;
+		flex-direction: column;
+		top: -880px;
+		left: 0px;
+	}
+
+	.poster2 {
+		display: flex;
+		margin-top : -690px;
+	}
+
+	.card3 {
+		width: 40%;
+		flex-direction: column;
+		display: flex;
+	}
+
+	.card4 {
+		width: 40%;
+		flex-direction: column;
+		display: flex;
+	}
+
+	footer {
+		margin-top: 2200px;
+	}
+
+
+/*________________________________PV___________________________________*/
+
+	.photo {
+		display: block;
+		margin: auto;
+		width: 90%;
+		margin-top: 60px;
+	}
+
+	#video {
+		position: relative;
+		right: 300px;
+		width: 450px;
+	}
+
+	#video img {
+		width: 450px;
+	}
+
+	#video1 {
+		position: relative;
+		top: -470px;
+		left: 300px;
+		width: 450px;
+	}
+
+	#video1 img {
+		width: 450px;
+	}
+
+	#ft {
+		bottom: -300px;
+	}
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,1005 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans&family=Roboto+Slab:wght@500&display=swap');
+
+.wrapper {
+	display: block;
+	width: 450px;
+	margin: auto;
+	margin-top: 60px;
+}
+
+header h1 {
+	text-align: center;
+	font-family: 'Roboto Slab', serif;
+	font-size: 35px;
+	padding-bottom: 20px;
+}
+
+.icon {
+	background-color: #225d99;
+}
+
+.container {
+	padding-bottom: 50px;
+}
+
+.collapse {
+	background-color: #225d99;
+}
+
+.section {
+	padding-top: 100px;
+}
+
+.navbar a{
+	color: #fff;
+}
+
+.nav-item a:hover {
+	color: #fff;
+}
+
+.section h3 {
+	font-family: 'Roboto Slab', serif;
+	font-size: 23px;
+	background-color: #225d99;
+	width: 130px;
+	padding-left: 4px;
+	padding-right: 4px;
+	padding-bottom: 4px;
+	padding-top: 4px;
+	color: #fff;
+}
+
+.section p {
+	font-family: 'Open Sans', sans-serif;
+	font-size: 14px;
+	background-color: #d2d2d2;
+	padding: 20px;
+}
+
+.section a {
+	font-family: 'Open Sans', sans-serif;
+	color: #225d99;
+	font-weight: bolder;
+}
+
+.box {
+	padding-top: 40px;
+}
+
+.box img {
+	width: 95%;
+	padding-bottom: 60px;
+	padding-left: 20px;
+	box-shadow: 15px 10px 10px #d2d2d2;
+}
+
+.box img:hover {
+	opacity: 0.5;
+}
+
+footer {
+	text-align: center;
+	padding-top: 180px;
+	padding-bottom: 180px;
+}
+
+footer li {
+	list-style: none;
+	display: inline;
+}
+
+footer a {
+	color: black;
+	font-size: 20px;
+}
+
+footer a:hover {
+	color: #225d99;
+}
+
+
+
+/* _____________________________ABOUT____________________________ */
+
+
+.aboutpage {
+	display: block;
+	width: 450px;
+	margin: auto;
+	margin-top: 60px;
+}
+
+header h1 {
+	text-align: center;
+	font-family: 'Roboto Slab', serif;
+	font-size: 35px;
+	padding-bottom: 20px;
+}
+
+.resume {
+	color: #fff;
+	background-color: #225d99;
+}
+
+.eportfolio {
+	color: #fff;
+	background-color: #225d99;
+}
+
+.about {
+	padding-top: 60px;
+}
+
+.about img {
+	width: 90%;
+	padding-bottom: 60px;
+	padding-left: 20px;
+	box-shadow: 15px 10px 10px #d2d2d2;
+	margin-left: 15px;
+}
+
+.about img:hover {
+	opacity: 0.5;
+}
+
+.container1 h3 {
+	font-family: 'Roboto Slab', serif;
+	font-size: 25px;
+	margin-left: 35px;
+	padding-top: 30px;
+	margin-top: 60px;
+	font-family: 'Roboto Slab', serif;
+	font-size: 23px;
+	background-color: #225d99;
+	width: 130px;
+	padding-left: 4px;
+	padding-right: 4px;
+	padding-bottom: 4px;
+	padding-top: 4px;
+	color: #fff;
+
+}
+
+.about p {
+	font-family: 'Open Sans', sans-serif;
+	font-size: 14px;
+	background-color: #d2d2d2;
+	padding: 30px;
+	margin-top: 40px;
+}
+
+
+
+/* _____________________________Contact____________________________ */
+
+
+.contactpage {
+	display: block;
+	width: 450px;
+	margin: auto;
+	margin-top: 60px;
+}
+
+.heading {
+	margin-left: -30px;
+}
+
+.heading h3{
+	font-family: 'Roboto Slab', serif;
+	font-size: 25px;
+	margin-left: 35px;
+	padding-top: 30px;
+	margin-top: 60px;
+	font-family: 'Roboto Slab', serif;
+	font-size: 23px;
+	background-color: #225d99;
+	width: 130px;
+	padding-left: 4px;
+	padding-right: 4px;
+	padding-bottom: 4px;
+	padding-top: 4px;
+	color: #fff;
+}
+
+iframe {
+	width: 100%;
+	display: block;
+}
+
+.contact {
+	background-color: #d2d2d2;
+}
+
+.contact p {
+	margin-top: 40px;
+	font-family: 'Open Sans', sans-serif;
+	font-size: 14px;
+	padding-bottom: 20px;
+	margin-left: 10px;
+}
+
+.id a {
+	color: #225d99;
+}
+
+.address {
+	margin-bottom: -30px;
+}
+
+.number {
+	margin-bottom: -30px;
+}
+
+
+
+
+/* _____________________________PORTFOLIO____________________________ */
+
+.portpage {
+	display: block;
+	width: 450px;
+	margin: auto;
+	margin-top: 60px;
+}
+
+.portfolio {
+	margin-top: 80px;
+	padding-left: 80px;
+}
+
+.portfolio h2 {
+	margin-bottom: 40px;
+	font-family: 'Roboto Slab', serif;
+}
+
+.portfolio a:hover {
+	color: #fff;
+}
+
+.proto {
+	background-color: #225d99;
+	width: 230px;
+}
+
+.proto a {
+	margin-left: 10px;
+	color: #fff;
+}
+
+.digi {
+	background-color: #225d99;
+	width: 240px;
+}
+
+.digi a {
+	margin-left: 10px;
+	color: #fff;
+}
+
+.pv {
+	 background-color: #225d99;
+	 width: 320px;
+}
+
+.pv a {
+	margin-left: 20px;
+	color: #fff;
+}
+
+.vid {
+	margin-left: 20px;
+}
+
+.container3 h1 {
+	margin-top: 60px;
+	padding-left: 30px;
+	font-weight: bolder;
+	font-family: 'Roboto Slab', serif;	
+}
+
+.work {
+	font-style: italic;
+}
+
+
+
+
+
+/* _____________________________WORK-1____________________________ */
+
+
+
+.workpage {
+	display: block;
+	width: 450px;
+	margin: auto;
+	margin-top: 60px;
+}
+
+.card {
+	margin-left: 120px;
+}
+
+.card {
+	margin-top: 30px;
+	box-shadow: 15px 10px 10px #d2d2d2;
+}
+
+.card1 {
+	margin-left: 120px;
+}
+
+.card1 {
+	margin-top: 30px;
+	box-shadow: 15px 10px 10px #d2d2d2;
+}
+
+.card2 {
+	margin-left: 120px;
+}
+
+.card2 {
+	margin-top: 30px;
+	box-shadow: 15px 10px 10px #d2d2d2;
+}
+
+.work1 {
+	padding-top: 70px;
+	margin-left: 20px;
+}
+
+.heading1 {
+	font-family: 'Roboto Slab', serif;
+	font-size: 23px;
+	background-color: #225d99;
+	width: 180px;
+	padding-left: 4px;
+	padding-right: 4px;
+	padding-bottom: 4px;
+	padding-top: 4px;
+}
+
+.heading1 a {
+	color: #fff;
+	margin-left: 10px;
+}
+
+.card h4 {
+	font-family: 'Roboto Slab', serif;
+	font-size: 23px;
+}
+
+.card p {
+	font-family: 'Open Sans', sans-serif;
+	font-size: 14px;
+}
+
+.card1 h4 {
+	font-family: 'Roboto Slab', serif;
+	font-size: 23px;
+}
+
+.card1 p {
+	font-family: 'Open Sans', sans-serif;
+	font-size: 14px;
+}
+
+.card2 h4 {
+	font-family: 'Roboto Slab', serif;
+	font-size: 23px;
+}
+
+.card2 p {
+	font-family: 'Open Sans', sans-serif;
+	font-size: 14px;
+}
+
+.card3 h4 {
+	font-family: 'Roboto Slab', serif;
+	font-size: 23px;
+}
+
+.card3 p {
+	font-family: 'Open Sans', sans-serif;
+	font-size: 14px;
+}
+
+.card4 h4 {
+	font-family: 'Roboto Slab', serif;
+	font-size: 23px;
+}
+
+.card4 p {
+	font-family: 'Open Sans', sans-serif;
+	font-size: 14px;
+}
+
+.btn1 {
+	margin-left: 350px;
+	margin-top: 60px;
+}
+
+.btn2 {
+	margin-left: 20px;
+	margin-top: -35px;
+}
+
+
+
+/* _____________________________WORK-1____________________________ */
+
+
+.workpage2 {
+	display: block;
+	width: 450px;
+	margin: auto;
+	margin-top: 60px;
+}
+
+
+
+
+
+
+
+
+
+
+
+@media (min-width: 48em) {
+	.wrapper {
+		display: block;
+		margin: auto;
+		width: 90%;
+		margin-top: 60px;
+	}
+
+	header h1 {
+		font-size: 40px;
+	}
+
+	.section h3 {
+		font-size: 30px;
+		width: 170px;
+	}
+
+	
+
+	.section p {
+		font-size: 1rem;
+		width: 100%;
+	}
+
+	.box img {
+		width: 400px;
+		height: 400px;
+	}
+
+	footer {
+		position: absolute;
+		top: 1500px;
+		left: 350px;
+	}
+
+	footer a {
+		color: black;
+		font-size: 22px;
+	}
+
+
+/* _____________________________ABOUT____________________________ */
+
+
+	.aboutpage {
+		display: block;
+		width: 90%;
+		margin: auto;
+		margin-top: 60px;
+	}
+
+	.about {
+		display: flex;
+	}
+
+	.about img {
+		display: flex;
+		flex-direction: column;
+		width: 400px;
+	}
+
+	.resume {
+		margin-left: 700px;
+		margin-top: 40px;
+		font-family: 'Open Sans', sans-serif;
+	}
+
+	.eportfolio {
+		margin-left: 700px;
+		margin-top: 40px;
+		font-family: 'Open Sans', sans-serif;
+	}
+
+	.about p {
+		display: flex;
+		flex-direction: column;
+		margin-left: 20px;
+	}
+
+	.container h3 {
+		font-size: 30px;
+		width: 170px;
+	}
+
+
+/* _____________________________Contact____________________________ */
+
+
+
+	.contactpage {
+		display: block;
+		width: 90%;
+		margin: auto;
+		margin-top: 60px;
+	}
+
+	.heading h3 {
+		font-size: 30px;
+		width: 170px;
+	}
+
+	.container2 {
+		display: flex;
+	}
+
+	iframe {
+		display: flex;
+		flex-direction: column;
+		width: 500px;
+	}
+
+	.contact{
+		margin-left: 50px;
+		height: 300px;
+	}
+
+	.contact p {
+		display: flex;
+		flex-direction: column;
+		width: 100%;
+		padding-right: 60px;
+	}
+
+
+
+/* _____________________________PORTFOLIO____________________________ */
+
+
+	.portpage {
+		display: block;
+		margin: auto;
+		width: 90%;
+		margin-top: 60px;
+	}
+
+	.container3 {
+		display: flex;
+		margin-top: 20px;
+	}
+
+	.container3 h1 {
+		display: flex;
+		flex-direction: column;
+	}
+
+	.portfolio h2 {
+		display: flex;
+		flex-direction: column;
+		padding-top: 10px;
+		padding-bottom: 10px;
+	}
+
+	.portfolio {
+		padding-left: 250px;
+	}
+
+
+
+/* _____________________________WORK-1____________________________ */
+
+
+	.workpage {
+		display: block;
+		margin: auto;
+		width: 90%;
+		margin-top: 60px;
+	}
+
+	.card h4 {
+		font-family: 'Roboto Slab', serif;
+		font-size: 25px;
+	}
+
+	.card p {
+		font-family: 'Open Sans', sans-serif;
+		font-size: 1rem;
+	}
+
+	.card1 {
+		position: relative;
+		left: 350px;
+		bottom: 920px;
+	}
+
+	.card1 h4 {
+		font-family: 'Roboto Slab', serif;
+		font-size: 25px;
+	}
+
+	.card1 p {
+		font-family: 'Open Sans', sans-serif;
+		font-size: 1rem;
+	}
+
+	.card2 {
+		position: relative;
+		bottom: 800px;
+	}
+
+	.card2 h4 {
+		font-family: 'Roboto Slab', serif;
+		font-size: 25px;
+	}
+
+	.card2 p {
+		font-family: 'Open Sans', sans-serif;
+		font-size: 1rem;
+	}
+
+	.btn {
+		margin-top: -1400px;
+	}
+
+	.btn1 {
+		margin-left: 750px;
+		margin-top: 60px;
+	}
+
+	.btn2 {
+		margin-left: 20px;
+		margin-top: -35px;
+	}
+
+	footer {
+		margin-top: 1000px;
+	}
+
+
+/* _____________________________WORK-2____________________________ */
+
+
+	.workpage2 {
+		display: block;
+		margin: auto;
+		width: 90%;
+		margin-top: 60px;
+	}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+}
+
+@media (min-width: 60em) {
+	.wrapper {
+		display: block;
+		margin: auto;
+		width: 90%;
+		margin-top: 60px;
+	}
+
+	header h1 {
+		font-size: 45px;
+		padding-bottom: 20px;
+	}
+
+	a.navlink {
+		color: #fff;
+	}
+
+	.collapse ul {
+		padding-left: 450px;
+	}
+
+	.collapse a {
+		margin-right: 10px;
+	}
+
+	.box {
+		display: flex;
+		margin-left: 10px;
+		padding-top: 70px;
+	}
+
+	.box img {
+		display: flex;
+		flex-direction: column;
+		width: 300px;
+		height: 350px;
+	}
+
+	footer {
+		position: absolute;
+		top: 500px;
+		left: 550px;
+	}
+
+	footer p {
+		font-size: 1rem;
+	}
+
+
+/* _____________________________ABOUT____________________________ */
+
+
+
+
+	.aboutpage {
+		display: block;
+		width: 90%;
+		margin: auto;
+		margin-top: 60px;
+	}
+
+	.resume {
+		margin-left: 1000px;
+		margin-top: 40px;
+		font-family: 'Open Sans', sans-serif;
+	}
+
+	.eportfolio {
+		margin-left: 1000px;
+		margin-top: 40px;
+		font-family: 'Open Sans', sans-serif;
+	}
+
+	.about {
+		display: flex;
+	}
+
+	.about img {
+		display: flex;
+		flex-direction: column;
+		width: 500px;
+	}
+
+	.about p {
+		display: flex;
+		flex-direction: column;
+		margin-left: 40px;
+		width: 50%;
+	}
+
+	.container h3 {
+		font-size: 30px;
+	}
+
+
+
+/* _____________________________Contact____________________________ */
+
+
+	.contactpage {
+		display: block;
+		width: 90%;
+		margin: auto;
+		margin-top: 60px;
+	}
+
+	.container2 {
+		margin-left: 50px;
+		padding-top: 30px;
+	}
+
+	iframe {
+		width: 600px;
+	}
+
+	.contact p {
+		font-size: 1rem;
+		width: 100%;
+		padding-left: 30px;
+	}
+
+	.contact {
+		width: 40%;
+		padding-left: 20px;
+	}
+
+	.heading h3 {
+		margin-left: 60px;
+	}
+
+
+	/* _____________________________PORTFOLIO____________________________ */
+
+
+	.portpage {
+		display: block;
+		margin: auto;
+		width: 90%;
+		margin-top: 60px;
+	}
+
+	.container3 {
+		display: flex;
+		margin-top: 20px;
+	}
+
+	.container3 h1 {
+		display: flex;
+		flex-direction: column;
+		padding-left: 50px;
+	}
+
+	.portfolio h2 {
+		display: flex;
+		flex-direction: column;
+		padding-top: 10px;
+		padding-bottom: 10px;
+	}
+
+	.portfolio {
+		padding-left: 500px;
+
+	}
+
+
+/* _____________________________WORK-1____________________________ */
+
+
+	.workpage {
+		display: block;
+		width: 90%;
+		margin: auto;
+		margin-top: 60px;
+	}
+
+	.card h4 {
+		font-family: 'Roboto Slab', serif;
+		font-size: 25px;
+	}
+
+	.card p {
+		font-family: 'Open Sans', sans-serif;
+		font-size: 1rem;
+	}
+
+	.card1 {
+		position: relative;
+		left: 350px;
+		bottom: 920px;
+	}
+
+	.card1 h4 {
+		font-family: 'Roboto Slab', serif;
+		font-size: 25px;
+	}
+
+	.card1 p {
+		font-family: 'Open Sans', sans-serif;
+		font-size: 1rem;
+	}
+
+	.card2 {
+		position: relative;
+		bottom: 1830px;
+		left: 700px
+	}
+
+	.card2 h4 {
+		font-family: 'Roboto Slab', serif;
+		font-size: 25px;
+	}
+
+	.card2 p {
+		font-family: 'Open Sans', sans-serif;
+		font-size: 1rem;
+	}
+
+
+
+	.btn {
+		margin-top: -3400px;
+	}
+
+	.btn1 {
+		margin-left: 1050px;
+		margin-top: 60px;
+	}
+
+	.btn2 {
+		margin-left: 20px;
+		margin-top: -35px;
+	}
+
+	
+
+
+/* _____________________________WORK-1____________________________ */
+
+
+	.workpage2 {
+		display: block;
+		width: 90%;
+		margin: auto;
+		margin-top: 60px;
+	}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+}
+
+
+
+
+
+
+
+
+
+
+
